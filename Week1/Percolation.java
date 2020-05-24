@@ -33,14 +33,6 @@ public class Percolation {
         // +2 for virtual nodes
         obj = new WeightedQuickUnionUF(n * n + 2);
 
-        // // join virtual nodes to top and bottom nodes
-        // for (int i = 1; i <= n; i++) {
-        //     obj.union(0, i);
-        // }
-        // for (int i = n * n - n + 1; i <= n * n; i++) {
-        //     obj.union(n * n + 1, i);
-        // }
-
 
     }
 
@@ -154,14 +146,7 @@ public class Percolation {
         //     System.out.println();
         // }
 
-        // for (int i = 0; i < n; i++) {
-        //     int x = StdIn.readInt();
-        //     int y = StdIn.readInt();
-        //     p.open(x, y);
-        //     System.out.println(p.grid[x][y]);
-        //
-        //
-        // }
+
 
     }
 
