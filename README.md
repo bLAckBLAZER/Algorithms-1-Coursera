@@ -6,6 +6,6 @@ To compile and run the file use following commands on terminal:
 `javac-algs4 Percolation.java`
 `java-algs4 Percolation`
 
-##Scores
+## Scores
 1. [Week 1](Week1) - 95/100
 2. [Week 2](Week%202) - 100/100
