@@ -7,4 +7,4 @@ To compile and run the file use following commands on terminal:
 `java-algs4 Percolation`
 
 1. [Week 1](Week1) - 95/100
-2. [Week 2](Week 2) - 100/100
+2. [Week 2](Week\ 2) - 100/100
