@@ -6,5 +6,5 @@ To compile and run the file use following commands on terminal:
 `javac-algs4 Percolation.java`
 `java-algs4 Percolation`
 
-Week 1 - 95/100
+[Week 1](Algorithms-1-Coursera/Week1) - 95/100
 Week 2 - 100/100
